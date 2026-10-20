@@ -1,5 +1,4 @@
 # Analyze-User-Engagement-on-an-Online-Learning-Platform
-# 📊 Data Analyst Intern Assignment: Analyse User Engagement on an Online Learning Platform
 
 ## 📌 Project Overview
 
